@@ -23,6 +23,9 @@
     - https://aclanthology.org/2024.acl-short.73/
 - Fast WordPiece Tokenization (Song et al.)
     - https://aclanthology.org/2021.emnlp-main.160/
+- Tutorial: φ-Transductions in OpenFst via the Gallic Semiring (Cognetta and Allauzen)
+    - https://arxiv.org/abs/2506.17942
+      
 
 **Formal Aspects of Tokenization:**
 - A Formal Perspective on Byte-Pair Encoding (Zouhar et al.)
